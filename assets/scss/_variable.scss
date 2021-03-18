@@ -1,0 +1,17 @@
+$colors: (
+    primary : #47e1ae,
+    info : #47aee1,
+    font : #262222,
+    white: #ffff,
+);
+
+$font-weight:   400;
+$font-size:     14px;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px
+) !default;
