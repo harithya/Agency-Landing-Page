@@ -1,0 +1,16 @@
+.navbar {
+    padding-top: 20px;
+    .navbar-nav {
+        @media (max-width: size(lg)) {
+            margin-top: 20px;
+        }
+        .nav-item {
+            margin-left: 20px;
+            font-size: 16px;
+
+            @media (max-width: size(lg)) {
+                margin-left: 0px;
+            }
+        }
+    }
+}

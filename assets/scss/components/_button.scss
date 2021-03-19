@@ -1,0 +1,11 @@
+.btn {
+    padding-right: 25px !important;
+    padding-left: 25px !important;
+    border-radius: 20px;
+    font-size: 14px;
+}
+.btn-primary {
+    background-color: color('info');
+    border: 1px solid color('info');
+    color: color('white') !important;
+}

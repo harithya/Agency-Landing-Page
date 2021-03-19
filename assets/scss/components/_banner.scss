@@ -1,0 +1,16 @@
+.banner{
+    height: 90vh;
+    @include to-center;
+    h1{
+        font-size: 50px;
+        b{
+            color: color('info');
+        }
+    }
+    p{
+        width: 80%;
+    }
+    .d-flex {
+        width: 100%;
+    }
+}
